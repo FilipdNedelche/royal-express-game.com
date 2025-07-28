@@ -5,4 +5,4 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /js/
 
-Sitemap: https://royalofFireDrumsholdandwin.net/sitemap.xml
+Sitemap: https://royal-express-game.com/sitemap.xml
